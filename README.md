@@ -30,3 +30,4 @@ Also: Hugging Face · LoRA / QLoRA · FAISS
 
 ### 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-saheer-mecheri-a8b47223b)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/abdulshaheerm)
