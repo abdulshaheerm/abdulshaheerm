@@ -14,7 +14,7 @@ I build and fine-tune AI models that turn data into useful tools.
 📍 Riyadh, Saudi Arabia
 
 ### 🚀 Featured projects
-- **[arabic-text-normalizer](https://github.com/abdulshaheerm/arabic-text-normalizer)**: a lightweight, dependency-free Python library + CLI that normalizes Arabic text for search and NLP (alef forms, ى/ي, tashkeel, tatweel, digits). Tested in CI on Python 3.9–3.13.
+- **[arabic-text-normalizer](https://github.com/abdulshaheerm/arabic-text-normalizer)**: a lightweight, dependency-free Python library + CLI that normalizes Arabic text for search and NLP (alef forms, ى/ي, tashkeel, tatweel, digits). Tested in CI on Python 3.9–3.13 · [▶ Live demo](https://huggingface.co/spaces/abdulshaheerm/arabic-text-normalizer)
 
 ### 🛠️ Tech stack
 <p>
