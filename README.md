@@ -1,11 +1,11 @@
 ![Saher banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+%26+ML+%C2%B7+LLM+Fine-tuning;Currently+building%3A+a+bilingual+EN%2FAR+retrieval+model" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+Researcher+%C2%B7+AI+Developer;AI+%26+ML+%C2%B7+LLM+Fine-tuning;Currently+building%3A+a+bilingual+EN%2FAR+retrieval+model" alt="typing" />
 </p>
 
 ### 👋 Hi, I'm Saher (Abdul Saheer Mecheri)
-I build and fine-tune AI models that turn data into useful tools.
+AI Researcher & AI Developer — I build and fine-tune AI models that turn data into useful tools.
 
 🧠 Building models from scratch (PyTorch)  
 🎯 Fine-tuning LLMs with LoRA / QLoRA  
